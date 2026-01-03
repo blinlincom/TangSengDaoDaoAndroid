@@ -1,4 +1,4 @@
-package com.test.demo2
+package com.blinlin
 
 import android.content.Intent
 import android.text.Spannable
