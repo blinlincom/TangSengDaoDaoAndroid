@@ -1,4 +1,4 @@
-package com.blinlin
+package com.test.demo2
 
 import android.app.Activity
 import android.app.ActivityManager
