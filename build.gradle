@@ -5,9 +5,9 @@ buildscript {
     repositories {
         google()
         mavenCentral()
-        maven { url "https://jitpack.io" }
+        maven { url "https://maven.aliyun.com/repository/public" }
         maven {
-            url "https://mvnrepository.com"
+            url "https://maven.aliyun.com/repository/google"
         }
         //华为推送
         maven {url 'https://developer.huawei.com/repo/'}
